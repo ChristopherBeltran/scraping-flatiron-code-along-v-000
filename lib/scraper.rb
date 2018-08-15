@@ -17,5 +17,5 @@ def get_page
   end 
 end 
 binding.pry
-  
+  Scraper.new.get_page
 end
